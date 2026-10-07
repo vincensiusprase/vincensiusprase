@@ -38,8 +38,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vincensiusprase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincensiusprase&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 <br />
@@ -47,10 +47,10 @@
 <!-- CONNECT WITH ME -->
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/username-anda" target="_blank">
+  <a href="https://linkedin.com/in/vincenprase" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://vincenpraseportofolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
