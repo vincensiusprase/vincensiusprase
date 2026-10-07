@@ -1,6 +1,6 @@
 <!-- HEADER BANNER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=500&lines=Hi+there!+Vincen;Data+Analytic+Manager+%26;Welcome+to+my+Github!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=500&lines=Hi+there!;Data+Analytic+Manager;Welcome+to+my+Github!" alt="Typing SVG" />
 </div>
 
 <br />
