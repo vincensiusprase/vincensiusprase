@@ -1,17 +1,17 @@
 <!-- HEADER BANNER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=500&lines=Hi+there!;Data+Analytic+Manager;Welcome+to+my+Github!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vcenter=true&width=500&lines=Hi+there!;Data+Analytics+Manager;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <br />
 
 <!-- ABOUT ME -->
 ## 📌 About Me
-- 🔭 Saat ini sedang mengerjakan **Agentic RAG**
-- 💼 Berpengalaman dalam **Data Analytics, Data Engineering, dan Otomatisasi**
-- 🌱 Sedang mendalami **Google Cloud Platform (GCP), BigQuery, dan AI Agents**
-- 💬 Tanya saya seputar **SQL, Python, Data Pipelines, atau Analytics**
-- 📫 Cara menghubungi saya: **vincensiusprase@gmail.com**
+- 🔭 Currently building: **Agentic RAG Systems**
+- 💼 Experienced in: **Data Analytics, Data Engineering, and Workflow Automation**
+- 🌱 Currently diving deep into: **Google Cloud Platform (GCP), BigQuery, and AI Agents**
+- 💬 Ask me about: **SQL, Python, Data Pipelines, or Analytics**
+- 📫 How to reach me: **vincensiusprase@gmail.com**
 
 ---
 
